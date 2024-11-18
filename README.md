@@ -1,2 +1,2 @@
 ﻿# folder_renamer
-renames all folder names from mm.dd.yyy to yyyy.mm.dd format
+renames all folder names from mm.dd.yyyy to yyyy.mm.dd format
